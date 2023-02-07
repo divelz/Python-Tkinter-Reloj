@@ -1,5 +1,7 @@
 # Clock with Python-tkinter
 
+Project #1 with Python - Tkinter. Clock on desktop screen.
+
 When executing it shows a text with the time
 the date and place, as shown to
 continuation:
